@@ -8,7 +8,7 @@ Security vulnerabilities in Parity software should be reported by email to secur
 
 Your report should include the following:
 
-- your name
+- your name Sts
 - description of the vulnerability
 - attack scenario (if any)
 - components
